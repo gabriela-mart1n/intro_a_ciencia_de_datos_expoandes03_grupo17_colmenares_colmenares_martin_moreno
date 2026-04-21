@@ -27,7 +27,20 @@
 
 <img src="https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1200&h=300&fit=crop" width="100%"/>
 
+</div>
+
 ---
+
+## 👥 Integrantes
+
+- Valeria Colmenares Moreno  
+- Miguel Colmenares Rodríguez  
+- María Gabriela Martín Avila  
+- Sebastián David Moreno Bustos  
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=55&text=🚨+Problema&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
@@ -40,4 +53,4 @@ Las estaciones **Las Aguas** y **Museo del Oro** dependen únicamente de la ruta
 - ⏱️ Incremento en tiempos de espera  
 - 📉 Ineficiencia operativa  
 
-Además, no existe un análisis específico que relacione:
+📊 No existe un análisis específico que relacione:
