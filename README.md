@@ -1,80 +1,43 @@
-<!-- TITULO CON ESTILO -->
-<h1 align="center">🚍 Análisis de Congestión en TransMilenio</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow">
-  <img src="https://img.shields.io/badge/Python-3.x-blue">
-  <img src="https://img.shields.io/badge/Datos-TransMilenio-red">
-  <img src="https://img.shields.io/badge/Proyecto-Académico-green">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <i>Evaluación del flujo de pasajeros y la capacidad operativa en estaciones críticas del sistema de transporte de Bogotá</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=70&text=Análisis+de+Congestión+en+TransMilenio&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B22222&height=45&text=Optimización+del+flujo+de+pasajeros+·+Bogotá&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-## 📸 Vista General
+<br/>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TransMilenio_bus.jpg/800px-TransMilenio_bus.jpg" width="500">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1200&color=8B0000&center=true&vCenter=true&width=1000&height=60&lines=Movilidad+urbana+inteligente;Datos+para+resolver+congestión;Transporte+público+más+eficiente)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 📌 Descripción
+<img src="https://img.shields.io/badge/TransMilenio-Bogotá-8B0000?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruta_Analizada-FJ23-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Estaciones-Las_Aguas_·_Museo_del_Oro-FF4C4C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Estado-En_Desarrollo-B22222?style=for-the-badge"/>
 
-Este proyecto analiza el comportamiento del flujo de pasajeros en las estaciones **Las Aguas** y **Museo del Oro** de TransMilenio, con el objetivo de identificar fallas en la relación entre la **demanda real** y la **capacidad del sistema**.
+<br/><br/>
 
-Actualmente, ambas estaciones dependen exclusivamente de la ruta **FJ23**, lo que genera problemas de congestión, riesgo operativo y baja eficiencia en la movilidad.
+> *"Un sistema de transporte eficiente no solo mueve personas… mueve ciudades enteras."*
+
+<br/>
 
 ---
 
-## 🚨 Problema
-
-⚠️ Las estaciones presentan:
-
-- Dependencia de una única ruta  
-- Congestión alta en horas pico  
-- Alta afluencia incluso en horas valle  
-- Incremento en tiempos de espera  
-
-📉 Además:
-
-No existe un modelo específico que analice la relación entre **demanda vs oferta** por franja horaria en estas estaciones.
+<img src="https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1200&h=300&fit=crop" width="100%"/>
 
 ---
 
-## 🎯 Objetivo
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=55&text=🚨+Problema&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-Identificar los momentos del día en los que la capacidad del sistema es insuficiente frente a la demanda, para proponer mejoras como:
+</div>
 
-- 📈 Ajuste de frecuencias  
-- 🚌 Nuevas rutas  
-- ⏱️ Reducción de tiempos de espera  
-- 🌱 Optimización del sistema de transporte  
+Las estaciones **Las Aguas** y **Museo del Oro** dependen únicamente de la ruta **FJ23**, lo que genera:
 
----
+- 🚧 Alta congestión en horas pico  
+- ⚠️ Riesgo de colapso ante fallas del sistema  
+- ⏱️ Incremento en tiempos de espera  
+- 📉 Ineficiencia operativa  
 
-## 📊 Datos Utilizados
-
-### 🔹 Datos principales
-- Validaciones de pasajeros por hora  
-- Frecuencia de buses (ruta FJ23)  
-- Variación operativa por franja horaria  
-
-### 🔹 Datos complementarios
-- Impacto del carril único  
-- Factores externos de operación  
-
----
-
-## ⚙️ Metodología
-
-```mermaid
-flowchart TD
-    A[Recolección de datos] --> B[Procesamiento]
-    B --> C[Análisis de demanda]
-    C --> D[Análisis de oferta]
-    D --> E[Comparación]
-    E --> F[Identificación de congestión]
+Además, no existe un análisis específico que relacione:
