@@ -141,73 +141,69 @@ Lo más relevante es que estos patrones son **predecibles y repetitivos**: el pr
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Dashboard+Analítico" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Dashboard+Analítico" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Dashboard+Analítico" />
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Vista+general+del+sistema" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Vista+general+del+sistema" />
 </div>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9dd063d9-df3e-41bc-9e29-63b73dd39af9" width="85%" style="border-radius:14px;">
 </p>
 
-El dashboard integra en una sola vista la relación entre demanda, capacidad y comportamiento temporal del sistema. Permite identificar rápidamente los puntos críticos de congestión y evaluar el desempeño operativo de la ruta FJ23.
+El tablero consolida en una sola vista la dinámica completa del sistema: demanda, capacidad y comportamiento temporal. Esta integración permite identificar rápidamente los momentos donde la operación deja de ser eficiente y comienza la congestión.
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Comportamiento+de+la+demanda" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Patrones+de+demanda" />
 </div>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ea3d0459-61f4-4de0-90f8-8586ebe24274" width="45%" style="border-radius:10px;">
-<img src="https://github.com/user-attachments/assets/0bf3d7c2-d888-403d-9187-f77c6be6d115" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/69fae6d9-fe8f-4820-8742-501a2153440c" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/838bb0d3-753d-43b1-97be-70e37aa76572" width="45%" style="border-radius:10px;">
 </p>
 
-La demanda presenta un crecimiento progresivo a lo largo del día, alcanzando su punto máximo entre las **4:00 p.m. y 6:00 p.m.**, donde se concentran los mayores niveles de congestión. Este patrón se repite de forma consistente, evidenciando un comportamiento altamente predecible.
+La demanda muestra un comportamiento creciente a lo largo del día, con un incremento sostenido hasta alcanzar su punto máximo en la franja de la tarde. Este patrón no presenta variaciones abruptas, lo que indica que los picos de congestión son altamente predecibles.
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Capacidad+operativa+del+sistema" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Capacidad+del+sistema" />
 </div>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/843712ca-4fa5-4ce4-9509-1a7e9270812d" width="45%" style="border-radius:10px;">
-<img src="https://github.com/user-attachments/assets/6f92136e-7e38-452d-b3a4-28964190b72c" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/40655d4e-3af1-47a0-b47e-4dd4e19902be" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/b75cdaa0-481f-4193-a030-74c4e3363e12" width="45%" style="border-radius:10px;">
 </p>
 
-La capacidad del sistema se mantiene relativamente constante a lo largo del día, con ligeras variaciones que no responden a los picos de demanda. Esto evidencia una **falta de sincronización entre la programación de buses y el comportamiento real de los usuarios**.
+A diferencia de la demanda, la capacidad operativa no presenta un ajuste dinámico. La frecuencia de buses se mantiene relativamente estable, generando un desfase evidente frente a las necesidades reales del sistema.
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Brecha+oferta+vs+demanda" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Desbalance+operativo" />
 </div>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f88d2d0e-f268-4d57-a157-676c87aeb478" width="60%" style="border-radius:12px;">
+<img src="https://github.com/user-attachments/assets/d6b3e291-98ec-4530-9bfb-c51b8d9c78ff" width="60%" style="border-radius:12px;">
 </p>
 
-El análisis conjunto muestra que aproximadamente el **35% del tiempo el sistema opera en déficit**, es decir, la capacidad disponible es insuficiente para atender la demanda. Esta brecha no es puntual, sino estructural.
+El cruce entre demanda y capacidad evidencia un desbalance estructural. En múltiples franjas horarias, especialmente en horas pico, la capacidad disponible resulta insuficiente, generando acumulación de pasajeros y aumento en los tiempos de espera.
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Hallazgos+clave" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Lectura+general" />
 </div>
 
-- Solo el **65% del tiempo** el sistema responde adecuadamente a la demanda  
-- Existe un **pico crítico en la tarde (4–6 p.m.)**  
-- La capacidad no se ajusta dinámicamente a los usuarios  
-- El problema es **predecible y recurrente**, no aleatorio  
+- La congestión no es un evento aislado, es un patrón repetitivo  
+- La demanda crece de forma progresiva y predecible  
+- La oferta permanece estática frente a cambios en el flujo de usuarios  
+- Existe una brecha constante entre capacidad y necesidad operativa  
 
 ---
 
