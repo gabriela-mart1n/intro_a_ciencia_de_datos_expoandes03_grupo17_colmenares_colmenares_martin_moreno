@@ -58,10 +58,6 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Información" />
-</div>
-
-<div align="center">
 
 | Tipo | Variable | Descripción |
 |------|----------|-------------|
@@ -130,7 +126,11 @@ El entregable final es un tablero interactivo que integra análisis de validacio
 
 </div>
 
-### Mapas de calor: Validaciones y Capacidad
+<hr/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Mapas+de+Calor;Validacion+y+capacidad" />
+</div>
 
 <img width="1600" height="669" alt="WhatsApp Image 2026-04-21 at 3 28 58 PM" src="https://github.com/user-attachments/assets/65c45716-16a2-454b-b59e-06e07b8b95e2" />
 
@@ -140,11 +140,7 @@ Lo más relevante es que estos patrones son **predecibles y repetitivos**: el pr
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Dashboard+Analítico" />
-</div>
 
----
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Vista+general+del+sistema" />
