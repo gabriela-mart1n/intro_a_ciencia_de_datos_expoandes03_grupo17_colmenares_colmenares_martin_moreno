@@ -130,11 +130,9 @@ El entregable final es un tablero interactivo que integra análisis de validacio
 
 </div>
 
-### 🔥 Mapas de calor: Validaciones y Capacidad
+### Mapas de calor: Validaciones y Capacidad
 
-<p align="center">
-<img src="heatmap.jpeg" width="90%" style="border-radius:12px;"/>
-</p>
+<img width="1600" height="669" alt="WhatsApp Image 2026-04-21 at 3 28 58 PM" src="https://github.com/user-attachments/assets/65c45716-16a2-454b-b59e-06e07b8b95e2" />
 
 Los mapas de calor revelan una **desalineación clara entre demanda y capacidad** en las estaciones Las Aguas y Museo del Oro. Mientras las validaciones muestran picos intensos y recurrentes —especialmente marcados en Museo del Oro—, la frecuencia de buses se mantiene relativamente constante a lo largo del día. Esto provoca que en horas pico la demanda supere la oferta, generando congestión y mayores tiempos de espera.
 
@@ -142,37 +140,76 @@ Lo más relevante es que estos patrones son **predecibles y repetitivos**: el pr
 
 ---
 
-### 📊 Dashboard: Visualización de Afluencia y Eficiencia
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Dashboard+Analítico" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Dashboard+Analítico" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Vista+general+del+sistema" />
+</div>
 
 <p align="center">
-<img src="dashboard.png" width="90%" style="border-radius:12px;"/>
+<img src="https://github.com/user-attachments/assets/9dd063d9-df3e-41bc-9e29-63b73dd39af9" width="85%" style="border-radius:14px;">
 </p>
+
+El dashboard integra en una sola vista la relación entre demanda, capacidad y comportamiento temporal del sistema. Permite identificar rápidamente los puntos críticos de congestión y evaluar el desempeño operativo de la ruta FJ23.
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Comportamiento+de+la+demanda" />
+</div>
 
 <p align="center">
-<img src="validaciones_vs_capacidad.png" width="48%" style="border-radius:10px; margin:4px;"/>
-<img src="suficiencia.png" width="48%" style="border-radius:10px; margin:4px;"/>
+<img src="https://github.com/user-attachments/assets/ea3d0459-61f4-4de0-90f8-8586ebe24274" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/0bf3d7c2-d888-403d-9187-f77c6be6d115" width="45%" style="border-radius:10px;">
 </p>
+
+La demanda presenta un crecimiento progresivo a lo largo del día, alcanzando su punto máximo entre las **4:00 p.m. y 6:00 p.m.**, donde se concentran los mayores niveles de congestión. Este patrón se repite de forma consistente, evidenciando un comportamiento altamente predecible.
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Capacidad+operativa+del+sistema" />
+</div>
 
 <p align="center">
-<img src="validaciones_hora.png" width="48%" style="border-radius:10px; margin:4px;"/>
-<img src="hora_linea.png" width="48%" style="border-radius:10px; margin:4px;"/>
+<img src="https://github.com/user-attachments/assets/843712ca-4fa5-4ce4-9509-1a7e9270812d" width="45%" style="border-radius:10px;">
+<img src="https://github.com/user-attachments/assets/6f92136e-7e38-452d-b3a4-28964190b72c" width="45%" style="border-radius:10px;">
 </p>
+
+La capacidad del sistema se mantiene relativamente constante a lo largo del día, con ligeras variaciones que no responden a los picos de demanda. Esto evidencia una **falta de sincronización entre la programación de buses y el comportamiento real de los usuarios**.
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Brecha+oferta+vs+demanda" />
+</div>
 
 <p align="center">
-<img src="capacidad_hora.png" width="60%" style="border-radius:10px;"/>
+<img src="https://github.com/user-attachments/assets/f88d2d0e-f268-4d57-a157-676c87aeb478" width="60%" style="border-radius:12px;">
 </p>
 
-El dashboard consolida los hallazgos en visualizaciones accionables. Las principales conclusiones son:
+El análisis conjunto muestra que aproximadamente el **35% del tiempo el sistema opera en déficit**, es decir, la capacidad disponible es insuficiente para atender la demanda. Esta brecha no es puntual, sino estructural.
 
-- **65% de suficiencia operativa:** Solo 6 de cada 10 horas del día presentan capacidad suficiente para atender la demanda. El 35% restante corresponde a franjas donde el sistema opera por debajo de lo necesario.
+---
 
-- **Pico crítico entre las 4:00 p.m. y las 6:00 p.m.:** El gráfico de validaciones por hora evidencia que la demanda escala hasta ~700 usuarios/hora en este intervalo, mientras que la capacidad disponible no crece proporcionalmente, generando el mayor punto de congestión del día.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Hallazgos+clave" />
+</div>
 
-- **Capacidad irregular a lo largo del día:** El gráfico de capacidad por hora muestra una oferta que oscila entre 500 y 680 unidades sin un patrón que responda a los picos de demanda conocidos, lo que confirma que la programación de frecuencias no está alineada con el comportamiento real de los usuarios.
+- Solo el **65% del tiempo** el sistema responde adecuadamente a la demanda  
+- Existe un **pico crítico en la tarde (4–6 p.m.)**  
+- La capacidad no se ajusta dinámicamente a los usuarios  
+- El problema es **predecible y recurrente**, no aleatorio  
 
-- **Días con mayor presión:** El 4 de marzo de 2026 registró el mayor volumen de validaciones del período analizado (21,8 mil en un solo día), con una demanda diaria que supera los 25.000 usuarios en varios días de la semana, poniendo en evidencia la necesidad de reforzar la oferta en días hábiles.
-
-- **Brecha sistémica, no puntual:** La comparación entre validaciones y capacidad diaria muestra que el desajuste no es un evento aislado, sino una condición estructural del servicio en este tramo de la Troncal J.
+---
 
 <div align="center">
 
@@ -183,12 +220,3 @@ El dashboard consolida los hallazgos en visualizaciones accionables. Las princip
 </div>
 
 ---
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1000&color=FF4C4C&center=true&vCenter=true&width=900&lines=Datos+que+explican+la+ciudad;Movilidad+basada+en+evidencia;Optimizar+es+entender" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=footer&animation=twinkling" width="100%"/>
-
-</div>
