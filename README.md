@@ -212,3 +212,23 @@ El cruce entre demanda y capacidad evidencia un desbalance estructural. En múlt
 </div>
 
 ---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=350&lines=Solucion+Propuesta" />
+</div>
+
+<img src="https://github.com/user-attachments/assets/cbfec7a8-771d-468b-8ae4-aa20c89e490e" 
+     width="100%" height="420px" style="object-fit: cover;">
+
+En las horas pico de la tarde, especialmente entre las **4:00 p.m. y las 6:00 p.m.**, la demanda en las estaciones **Museo del Oro**, **Las Aguas** y **Los Ríos** supera la capacidad del sistema. Dado que estas estaciones dependen únicamente de la ruta **FJ23**, toda la carga recae sobre un solo servicio.
+
+Se propone **modificar el recorrido de la ruta H76**, que actualmente sale con baja ocupación desde Universidades-City U, para que inicie en la estación **Las Aguas**, baje por el **Eje Ambiental**, conecte con **Museo del Oro** y se integre en **Avenida Jiménez** antes de continuar hacia la troncal Caracas.
+
+```mermaid
+flowchart LR
+    A[Las Aguas] --> B[Eje Ambiental]
+    B --> C[Museo del Oro]
+    C --> D[Avenida Jimenez]
+    D --> E[Troncal Caracas]
+```
+> *Al contar con una segunda ruta en horas pico, se reduce la necesidad de aumentar la frecuencia de la FJ23.*
